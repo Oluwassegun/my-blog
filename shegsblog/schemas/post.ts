@@ -22,7 +22,7 @@ export default{
             }
         },
         {
-            name:'Content',
+            name:'content',
             type:'array',
             title: 'Content',
             of: [
